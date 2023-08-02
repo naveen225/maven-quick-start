@@ -36,6 +36,5 @@
        </plugin>
      </plugins>
     </build> 
-curl -uadmin:<PASSWORD> -T <PATH_TO_FILE> "http://localhost:8081/artifactory/example-repo-local/<TARGET_FILE_PATH>"
-  
+cmVmdGtuOjAxOjE3MjI1NDExNTE6NWpJQ1BGMFZpVUNNZEZyZ1BuRkZwNTFsTWRN  
 </project>
