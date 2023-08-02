@@ -35,5 +35,12 @@
          </configuration>
        </plugin>
      </plugins>
-    </build>   
+    </build>  
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>LAPTOP-0V2515VC-releases</name>
+        <url>http://localhost:8081/artifactory/mvn-libs-release</url>
+    </repository>
+</distributionManagement>
 </project>
